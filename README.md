@@ -1,1 +1,1 @@
-# connectedThread - Erlang like between thread communication.
+# connectedThread - Erlang like between thread communication for Tcl.
